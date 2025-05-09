@@ -1,0 +1,13 @@
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gespiegelter Buchstabe G, sehr runde Schrift -->
+  <g transform="translate(60,0) scale(-1,1)">
+    <text x="-15" y="70" font-size="70" font-family="Arial Rounded MT Bold" fill="black">
+      G
+    </text>
+  </g>
+  
+  <!-- Buchstabe F mit ca. 5px Abstand (ggf. anpassen) -->
+  <text x="75" y="70" font-size="70" font-family="Arial Rounded MT Bold" fill="black">
+    F
+  </text>
+</svg>
